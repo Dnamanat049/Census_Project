@@ -1,0 +1,58 @@
+html {
+    font-family: 'Slabo 27px', serif;
+    background-color : rgb(218, 247, 166);
+}
+
+
+h1 {
+    text-align : center;
+    color : rgb(199, 0, 57);
+    font-size : 80 px;
+}
+
+h2 {
+    text-align : center;
+    color : rgb(199, 0, 57);
+    font-size : 20 px;
+}
+
+h3 {
+    text-align : center;
+    color : rgb(199, 0, 57);
+    font-size : 20 px;
+}
+
+tr {
+    color : darkcyan;
+    border: 1px rgb(88, 24, 69);
+    padding: 8px;
+    text-align : center;
+}
+
+p {
+	color : rgb(144, 12, 63);
+}
+
+td {
+    color : darkcyan;
+    border: 1px rgb(88, 24, 69);
+    padding: 8px;
+    text-align : center;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+th {
+    color : darkcyan;
+    border: 1px rgb(88, 24, 69);
+    padding: 8px;
+    text-align : center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
